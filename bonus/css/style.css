@@ -159,4 +159,14 @@ img {
         background-color: #222222;
     }    
 }
-    
+
+/************************************************
+    SOLUZIONE BONUS
+ ************************************************/
+ /* FIX: Min-Width 768px to Max-Width 1160px */
+
+ @media (min-width: 768px) and (max-width: 1160px) {
+    .container{
+       width: 100%;
+    }
+}
