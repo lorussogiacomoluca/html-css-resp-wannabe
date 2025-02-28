@@ -22,3 +22,7 @@ Sopra i 768px e fino ai 1160px il layout è un po’ troppo “rigido”! Come m
 - Apriamo le slide e usiamole come guida per il lavoro, aggiungiamo sempre solo un pezzettino alla volta.
 
 > ⚠️ Fate attenzione: a volte l'inspector di **Chrome** può dare qualche problema con le mediaquery, controllate il lavoro anche con l'inspector di **Firefox** 🦜💻
+
+## Numero minimo di push:
+
+- Minimo 4 push!
