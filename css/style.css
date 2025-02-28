@@ -128,14 +128,6 @@ img {
     SOLUZIONE RESPONSIVE
  ************************************************/
 
- .bored{
-    border: 2px solid red;
- }
-
- .borg{
-    border: 2px solid green;
- }
-
  /* Tablet: Max-Width 768px */
 
  @media screen and (max-width: 768px){
